@@ -5,7 +5,7 @@
 	"reload": 7.5,
 	"ammoUseEffect": "shellEjectSmall",
 	"recoil": 1.5,
-	"range": 116,
+	"range": 9999,
 	"inaccuracy": 6,
 	"rotatespeed": 16,
 	"targetAir": true,
